@@ -21,4 +21,5 @@ __exportStar(require("./user_follows.entity"), exports);
 __exportStar(require("./brand.entity"), exports);
 __exportStar(require("./connectedAccounts.entity"), exports);
 __exportStar(require("./brandBalance.entity"), exports);
+__exportStar(require("./post.entity"), exports);
 //# sourceMappingURL=index.js.map

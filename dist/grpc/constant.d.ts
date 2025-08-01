@@ -4,6 +4,7 @@ export declare const GrpcPackageToken: {
     readonly PAYMENT: "PAYMENT_PACKAGE";
     readonly PROFILE: "PROFILE_PACKAGE";
     readonly BRAND: "BRAND_PACKAGE";
+    readonly POST: "POST_PACKAGE";
 };
 export type GrpcPackageToken = typeof GrpcPackageToken[keyof typeof GrpcPackageToken];
 export declare const GrpcProtoName: {
@@ -12,5 +13,6 @@ export declare const GrpcProtoName: {
     readonly PAYMENT: "payment";
     readonly PROFILE: "profile";
     readonly BRAND: "brand";
+    readonly POST: "post";
 };
 export type GrpcProtoName = typeof GrpcProtoName[keyof typeof GrpcProtoName];

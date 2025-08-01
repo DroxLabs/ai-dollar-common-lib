@@ -6,13 +6,15 @@ exports.GrpcPackageToken = {
     USER: 'USER_PACKAGE',
     PAYMENT: 'PAYMENT_PACKAGE',
     PROFILE: 'PROFILE_PACKAGE',
-    BRAND: 'BRAND_PACKAGE'
+    BRAND: 'BRAND_PACKAGE',
+    POST: 'POST_PACKAGE'
 };
 exports.GrpcProtoName = {
     AUTH: 'auth',
     USER: 'user',
     PAYMENT: 'payment',
     PROFILE: 'profile',
-    BRAND: 'brand'
+    BRAND: 'brand',
+    POST: 'post'
 };
 //# sourceMappingURL=constant.js.map
